@@ -1,2 +1,3 @@
 # markdown_sublime_snippets
-Markdown snippets for Sublime text
+
+Markdown snippets for Sublime Text.
