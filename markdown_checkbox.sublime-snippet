@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[- [ ] ${SELECTION}${1:task}$0]]></content>
+    <tabTrigger>task</tabTrigger>
+    <scope>text.html.markdown</scope>
+</snippet>
